@@ -44,7 +44,9 @@ This project uses `react-native-tailwindcss` for styling.
 
 #### For Android:
 
+```bash
 npm run android
+```
 
 ---
 
